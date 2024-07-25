@@ -1,3 +1,3 @@
 # WebSecurityTools
 
-A list of tools that i use in pentesting and bug bounty
+A list of some tools that i use in pentesting and bug bounty
